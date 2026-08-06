@@ -12,13 +12,11 @@
 
 ## 📖 About Me
 
-<p align="center">
+<img align="right" src="assets/about-illustration.png" width="240" alt="illustration"/>
+
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Livicianaa&style=flat-square&color=2F81F7&label=profile+views" alt="profile views"/>
 </p>
-
-<table>
-<tr>
-<td width="65%" valign="top">
 
 - ☀️ Began the journey with web development a while back
 - 🎧 I work on frontend development & UI design
@@ -28,22 +26,15 @@
 - ⚡ Interested in design systems, automation, and clean architecture
 - 🖤 I only like doing things properly.
 
-</td>
-<td width="35%" align="center">
-  <img src="assets/about-illustration.png" width="100%" alt="illustration"/>
-</td>
-</tr>
-</table>
-
-<p align="center">✨ Follow Me on:</p>
-<p align="center">
+<p align="right">✨ <b>Follow Me on:</b></p>
+<p align="right">
   <a href="https://www.youtube.com/@Livicianam"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="https://discord.com/users/Liviciana"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="https://steamcommunity.com/id/Liviciana"><img src="https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white" alt="Steam"/></a>
   <a href="mailto:emirr.7983@gmail.com"><img src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Mail"/></a>
 </p>
 
-<br>
+<br clear="right"/>
 
 ## 🖐️ Languages & Tools I've Placed My Hands On
 
@@ -60,6 +51,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Livicianaa&layout=compact&theme=tokyonight&hide_border=true" width="38%" alt="Top languages"/>
   <br>
   <img src="https://streak-stats.demolab.com?user=Livicianaa&theme=tokyonight&hide_border=true" width="48%" alt="GitHub streak"/>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Livicianaa&theme=tokyonight&no-frame=true&row=1&column=7" width="90%" alt="trophies"/>
 </div>
 
 <br>
@@ -83,28 +76,16 @@
 
 <br>
 
-<table>
-<tr>
-<td width="55%" valign="top">
+## ⭐ Top Repos
 
-### ⭐ Top Repos
+<div align="center">
+  <a href="https://github.com/Livicianaa/DuoCode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Livicianaa&repo=DuoCode&theme=tokyonight&hide_border=true" width="47%" alt="DuoCode"/></a>
+  <a href="https://github.com/Livicianaa/ArchLinux-Excalibur-Fan-RGB-control-panel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Livicianaa&repo=ArchLinux-Excalibur-Fan-RGB-control-panel&theme=tokyonight&hide_border=true" width="47%" alt="Excalibur Panel"/></a>
+  <br>
+  <a href="https://github.com/Livicianaa/Django-Web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Livicianaa&repo=Django-Web&theme=tokyonight&hide_border=true" width="47%" alt="Django-Web"/></a>
+</div>
 
-| Repo | Stars |
-|---|---|
-| [DuoCode](https://github.com/Livicianaa/DuoCode) | ![stars](https://img.shields.io/github/stars/Livicianaa/DuoCode?style=flat-square&label=%E2%98%85) |
-| [ArchLinux-Excalibur-Fan-RGB-control-panel](https://github.com/Livicianaa/ArchLinux-Excalibur-Fan-RGB-control-panel) | ![stars](https://img.shields.io/github/stars/Livicianaa/ArchLinux-Excalibur-Fan-RGB-control-panel?style=flat-square&label=%E2%98%85) |
-| [Django-Web](https://github.com/Livicianaa/Django-Web) | ![stars](https://img.shields.io/github/stars/Livicianaa/Django-Web?style=flat-square&label=%E2%98%85) |
-
-</td>
-<td width="45%" valign="top">
-
-### 🍁 Random Dev Quote
-
-> "Not everything needs a name to be real."
-
-</td>
-</tr>
-</table>
+<p align="center"><i>🍁 "Not everything needs a name to be real."</i></p>
 
 <br>
 
