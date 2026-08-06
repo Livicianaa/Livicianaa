@@ -1,20 +1,12 @@
 <div align="center">
-  <img src="assets/hands.png" width="480" alt=""/>
-</div>
-
-<div align="center">
-  <img src="assets/cat-frame.png" width="60" alt=""/>
-  &nbsp;&nbsp;<h1>Livicianaa</h1>&nbsp;&nbsp;
-  <img src="assets/cat-shadow.png" width="60" alt=""/>
-  <br>
-  <sub>Anonymous Developer 🐈‍⬛</sub>
+  <img src="assets/banner.png" width="100%" alt="banner"/>
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1500&color=2F81F7&center=true&vCenter=true&width=440&lines=Livicianaa+here+%F0%9F%94%A5!" alt="typing"/>
 </div>
 
-<p align="center">👋 Hey, I'm Livicianaa — nice to meet you.</p>
+<p align="center">👋 I'm Livicianaa</p>
 
 <br>
 
@@ -24,14 +16,26 @@
   <img src="https://komarev.com/ghpvc/?username=Livicianaa&style=flat-square&color=2F81F7&label=profile+views" alt="profile views"/>
 </p>
 
-- 🔭 Building small, weird, and occasionally useful things on the internet
-- 🌱 Currently sharpening frontend engineering & creative coding
-- 🎨 Half developer, half designer — code and visuals live in the same brain
-- 💭 Clean code is a form of art, bugs are just improvisation
-- 💬 Ask me about frontend dev, UI/design, or creative web stuff
-- ⚡ Fun fact: debugging hits different at 3AM
-- ✨ I only ship things I'd actually use myself
+<table>
+<tr>
+<td width="65%" valign="top">
 
+- ☀️ Began the journey with web development a while back
+- 🎧 I work on frontend development & UI design
+- 🎓 Always learning — currently exploring new corners of the stack
+- ⌛ Comfortable across the full front-to-back flow of a project
+- 💬 Ask me about JavaScript, UI/UX, or creative front-end work
+- ⚡ Interested in design systems, automation, and clean architecture
+- 🖤 I only like doing things properly.
+
+</td>
+<td width="35%" align="center">
+  <img src="assets/about-illustration.png" width="100%" alt="illustration"/>
+</td>
+</tr>
+</table>
+
+<p align="center">✨ Follow Me on:</p>
 <p align="center">
   <a href="https://www.youtube.com/@Livicianam"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="https://discord.com/users/Liviciana"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
@@ -94,7 +98,7 @@
 </td>
 <td width="45%" valign="top">
 
-### 🍁 Quote
+### 🍁 Random Dev Quote
 
 > "Not everything needs a name to be real."
 
@@ -104,15 +108,14 @@
 
 <br>
 
-## 🚀 Projects
+## ☕ Support Me
 
-| Project | What it does | Link |
-|---|---|---|
-| **Codemisk** | Web design & software agency — turning ideas into code, code into results. | [codemisk.com.tr](https://codemisk.com.tr) |
-| **Shorty** | Link shortener with click analytics, visitor stats and a membership system. | [live demo](https://url-shortener-kappa-five.vercel.app/) |
-| **3D Portfolio** | Interactive 3D developer portfolio built with Three.js. | [live demo](https://3-d-developer-portfolio-nine.vercel.app/) |
-| **Excalibur Panel** | Fan speed & keyboard RGB control panel for Arch Linux (QML). | [GitHub](https://github.com/Livicianaa/ArchLinux-Excalibur-Fan-RGB-control-panel) |
-| **FarlandsBot** | Landing page for a Discord bot. | [live demo](https://farlands-bot-git-main-livicinas-projects.vercel.app) |
-| **ÇizBeni** 🔧 | Real-time multiplayer drawing & guessing game — in progress. | soon |
+<div align="center">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Support Me"/>
+</div>
 
-<p align="center"><i>"Some create with a name. I create with intent."</i></p>
+<br>
+
+<div align="center">
+  <img src="assets/footer-banner.png" width="100%" alt="footer"/>
+</div>
