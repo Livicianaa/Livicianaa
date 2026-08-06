@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hands.png" width="100%" alt="banner"/>
+  <img src="assets/banner.jpg" width="100%" alt="banner"/>
 </div>
 
 <div align="center">
@@ -98,5 +98,5 @@
 <br>
 
 <div align="center">
-  <img src="assets/footer-banner.png" width="100%" alt="footer"/>
+  <img src="assets/footer-banner.jpg" width="100%" alt="footer"/>
 </div>
