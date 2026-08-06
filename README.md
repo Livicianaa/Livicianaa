@@ -10,7 +10,7 @@
 
 <br>
 
-## 📖 About Me
+## About Me
 
 <img align="right" src="assets/about-illustration.png" width="240" alt="illustration"/>
 
@@ -18,15 +18,14 @@
   <img src="https://komarev.com/ghpvc/?username=Livicianaa&style=flat-square&color=2F81F7&label=profile+views" alt="profile views"/>
 </p>
 
-- ☀️ Began the journey with web development a while back
-- 🎧 I work on frontend development & UI design
-- 🎓 Always learning — currently exploring new corners of the stack
-- ⌛ Comfortable across the full front-to-back flow of a project
-- 💬 Ask me about JavaScript, UI/UX, or creative front-end work
-- ⚡ Interested in design systems, automation, and clean architecture
-- 🖤 I only like doing things properly.
+- Frontend developer focused on modern, interactive web experiences
+- Founder of Codemisk — a web design & software studio
+- Also into graphic design: logos, posters, illustration, mobile UI
+- Comfortable across JavaScript, Node.js, PHP, Python and the usual web stack
+- Ask me about frontend dev, UI/UX, or creative front-end work
+- I only ship things I'd actually use myself
 
-<p align="right">✨ <b>Follow Me on:</b></p>
+<p align="right"><b>Follow Me on:</b></p>
 <p align="right">
   <a href="https://www.youtube.com/@Livicianam"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="https://discord.com/users/Liviciana"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
