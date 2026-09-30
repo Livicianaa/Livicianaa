@@ -30,7 +30,7 @@
   <a href="https://www.youtube.com/@Livicianam"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="https://discord.com/users/Liviciana"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="https://steamcommunity.com/id/Liviciana"><img src="https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white" alt="Steam"/></a>
-  <a href="mailto:emirr.7983@gmail.com"><img src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Mail"/></a>
+  <a href="https://codemisk.com.tr/iletisim"><img src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Mail"/></a>
 </p>
 
 <br clear="right"/>
