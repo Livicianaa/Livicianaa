@@ -46,12 +46,10 @@
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Livicianaa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Livicianaa&show_icons=true&custom_title=Livicianaa%27s%20GitHub%20Stats&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Livicianaa&layout=compact&theme=tokyonight&hide_border=true" width="38%" alt="Top languages"/>
   <br>
   <img src="https://streak-stats.demolab.com?user=Livicianaa&theme=tokyonight&hide_border=true" width="48%" alt="GitHub streak"/>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Livicianaa&theme=tokyonight&no-frame=true&row=1&column=7" width="90%" alt="trophies"/>
 </div>
 
 <br>
@@ -77,27 +75,17 @@
 
 <br>
 
-## ⭐ Top Repos
-
-<div align="center">
-  <a href="https://github.com/Livicianaa/DuoCode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Livicianaa&repo=DuoCode&theme=tokyonight&hide_border=true" width="47%" alt="DuoCode"/></a>
-  <a href="https://github.com/Livicianaa/ArchLinux-Excalibur-Fan-RGB-control-panel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Livicianaa&repo=ArchLinux-Excalibur-Fan-RGB-control-panel&theme=tokyonight&hide_border=true" width="47%" alt="Excalibur Panel"/></a>
-  <br>
-  <a href="https://github.com/Livicianaa/Django-Web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Livicianaa&repo=Django-Web&theme=tokyonight&hide_border=true" width="47%" alt="Django-Web"/></a>
-</div>
-
-## Recently Working On
+## ⭐ Recent Projects
 
 <!--RECENT:start-->
-| Repo | Description | Language | Last push |
-| --- | --- | --- | --- |
-| [BookOfAchiments](https://github.com/Livicianaa/BookOfAchiments) |  | - | 2026-09-20 |
-| [ornek-menu2-main](https://github.com/Livicianaa/ornek-menu2-main) | MenüSitesiÖrnekleri-2 | HTML | 2026-06-20 |
-| [ornek-menu3-main](https://github.com/Livicianaa/ornek-menu3-main) | MenüSitesiÖrnekleri-3 | HTML | 2026-06-20 |
-| [ornek-menu4-main](https://github.com/Livicianaa/ornek-menu4-main) | MenüSitesiÖrnekleri-4 | HTML | 2026-06-20 |
-| [ornek-menu5-main](https://github.com/Livicianaa/ornek-menu5-main) | MenüSitesiÖrnekleri-5 | HTML | 2026-06-20 |
-
-<sub>Auto-updated 2026-10-06</sub>
+<!-- updated 2026-10-06 -->
+<div align="center">
+  <a href="https://github.com/Livicianaa/BookOfAchiments"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Livicianaa&repo=BookOfAchiments&theme=tokyonight&hide_border=true" width="47%" alt="BookOfAchiments"/></a>
+  <a href="https://github.com/Livicianaa/ArchLinux-Excalibur-Fan-RGB-control-panel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Livicianaa&repo=ArchLinux-Excalibur-Fan-RGB-control-panel&theme=tokyonight&hide_border=true" width="47%" alt="ArchLinux-Excalibur-Fan-RGB-control-panel"/></a>
+  <br>
+  <a href="https://github.com/Livicianaa/Django-Web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Livicianaa&repo=Django-Web&theme=tokyonight&hide_border=true" width="47%" alt="Django-Web"/></a>
+  <a href="https://github.com/Livicianaa/FarlandsBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Livicianaa&repo=FarlandsBot&theme=tokyonight&hide_border=true" width="47%" alt="FarlandsBot"/></a>
+</div>
 <!--RECENT:end-->
 
 <p align="center"><i>🍁 "Not everything needs a name to be real."</i></p>
