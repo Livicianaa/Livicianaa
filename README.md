@@ -21,7 +21,7 @@
 - Frontend developer focused on modern, interactive web experiences
 - Founder of Codemisk — a web design & software studio
 - Also into graphic design: logos, posters, illustration, mobile UI
-- Comfortable across JavaScript, Node.js, PHP, Python and the usual web stack
+- Comfortable across JavaScript, React, Node.js, Java, PHP, Python and the usual web stack
 - Ask me about frontend dev, UI/UX, or creative front-end work
 - I only ship things I'd actually use myself
 
@@ -38,7 +38,7 @@
 ## 🖐️ Languages & Tools I've Placed My Hands On
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,php,mysql,python,vscode,figma,androidstudio,git,github&theme=dark" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,java,php,mysql,python,vscode,figma,androidstudio,git,github&theme=dark" alt="skills"/>
 </div>
 
 <br>
@@ -61,9 +61,11 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -83,6 +85,20 @@
   <br>
   <a href="https://github.com/Livicianaa/Django-Web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Livicianaa&repo=Django-Web&theme=tokyonight&hide_border=true" width="47%" alt="Django-Web"/></a>
 </div>
+
+## Recently Working On
+
+<!--RECENT:start-->
+| Repo | Description | Language | Last push |
+| --- | --- | --- | --- |
+| [BookOfAchiments](https://github.com/Livicianaa/BookOfAchiments) |  | - | 2026-09-20 |
+| [ornek-menu2-main](https://github.com/Livicianaa/ornek-menu2-main) | MenüSitesiÖrnekleri-2 | HTML | 2026-06-20 |
+| [ornek-menu3-main](https://github.com/Livicianaa/ornek-menu3-main) | MenüSitesiÖrnekleri-3 | HTML | 2026-06-20 |
+| [ornek-menu4-main](https://github.com/Livicianaa/ornek-menu4-main) | MenüSitesiÖrnekleri-4 | HTML | 2026-06-20 |
+| [ornek-menu5-main](https://github.com/Livicianaa/ornek-menu5-main) | MenüSitesiÖrnekleri-5 | HTML | 2026-06-20 |
+
+<sub>Auto-updated 2026-10-06</sub>
+<!--RECENT:end-->
 
 <p align="center"><i>🍁 "Not everything needs a name to be real."</i></p>
 
