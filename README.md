@@ -78,13 +78,13 @@
 ## ⭐ Recent Projects
 
 <!--RECENT:start-->
-<!-- updated 2026-10-07 -->
+<!-- updated 2026-10-08 -->
 <div align="center">
+  <a href="https://github.com/Livicianaa/Kevin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Livicianaa&repo=Kevin&theme=tokyonight&hide_border=true" width="47%" alt="Kevin"/></a>
   <a href="https://github.com/Livicianaa/readme-recent-projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Livicianaa&repo=readme-recent-projects&theme=tokyonight&hide_border=true" width="47%" alt="readme-recent-projects"/></a>
-  <a href="https://github.com/Livicianaa/BookOfAchiments"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Livicianaa&repo=BookOfAchiments&theme=tokyonight&hide_border=true" width="47%" alt="BookOfAchiments"/></a>
   <br>
+  <a href="https://github.com/Livicianaa/BookOfAchiments"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Livicianaa&repo=BookOfAchiments&theme=tokyonight&hide_border=true" width="47%" alt="BookOfAchiments"/></a>
   <a href="https://github.com/Livicianaa/ArchLinux-Excalibur-Fan-RGB-control-panel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Livicianaa&repo=ArchLinux-Excalibur-Fan-RGB-control-panel&theme=tokyonight&hide_border=true" width="47%" alt="ArchLinux-Excalibur-Fan-RGB-control-panel"/></a>
-  <a href="https://github.com/Livicianaa/Django-Web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Livicianaa&repo=Django-Web&theme=tokyonight&hide_border=true" width="47%" alt="Django-Web"/></a>
 </div>
 <!--RECENT:end-->
 
