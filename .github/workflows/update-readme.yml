@@ -18,3 +18,4 @@ jobs:
       - uses: Livicianaa/readme-recent-projects@v1
         with:
           skip: "^(ornek-|tanitim-)"
+          card-host: "https://github-stats-extended.vercel.app"
