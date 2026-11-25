@@ -80,11 +80,11 @@
 <!--RECENT:start-->
 <!-- updated 2026-11-25 -->
 <div align="center">
+  <a href="https://github.com/Livicianaa/handsfree-voice"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Livicianaa&repo=handsfree-voice&theme=tokyonight&hide_border=true" width="47%" alt="handsfree-voice"/></a>
   <a href="https://github.com/Livicianaa/rampage-blink-driver"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Livicianaa&repo=rampage-blink-driver&theme=tokyonight&hide_border=true" width="47%" alt="rampage-blink-driver"/></a>
-  <a href="https://github.com/Livicianaa/Kevin"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Livicianaa&repo=Kevin&theme=tokyonight&hide_border=true" width="47%" alt="Kevin"/></a>
   <br>
+  <a href="https://github.com/Livicianaa/Kevin"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Livicianaa&repo=Kevin&theme=tokyonight&hide_border=true" width="47%" alt="Kevin"/></a>
   <a href="https://github.com/Livicianaa/readme-recent-projects"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Livicianaa&repo=readme-recent-projects&theme=tokyonight&hide_border=true" width="47%" alt="readme-recent-projects"/></a>
-  <a href="https://github.com/Livicianaa/BookOfAchiments"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Livicianaa&repo=BookOfAchiments&theme=tokyonight&hide_border=true" width="47%" alt="BookOfAchiments"/></a>
 </div>
 <!--RECENT:end-->
 
